@@ -42,4 +42,3 @@ spec:
       - name: argo-kubesimplify-com-tls
         kind: Secret
         group: ""
-

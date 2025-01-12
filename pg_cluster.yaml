@@ -13,3 +13,4 @@ spec:
       owner: goals_user
       secret:
         name: my-postgresql-credentials
+

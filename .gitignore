@@ -1,2 +1,7 @@
-
 bsf-result/
+.github/
+deploy/
+tmpl/argo-gateway.yaml
+bsf.hcl
+bsf.lock
+LICENSE

@@ -17,4 +17,3 @@ spec:
     path: /metrics  # The path where your application exposes Prometheus metrics
     interval: 15s  # Scrape interval
     scheme: http  # Protocol to use for scraping
-
